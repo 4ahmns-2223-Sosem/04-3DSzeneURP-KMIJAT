@@ -9,11 +9,12 @@ public class Heute : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        OnMouseDown();
     }
     private void OnMouseDown()
     {
         satelit.SetActive(true);
+
     }
 
     // Update is called once per frame
