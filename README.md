@@ -6,10 +6,16 @@ In meinem Part des Projekts sieht man die Sonne und die Erde, und man hat mehrer
 (wie die Erde vor der industiealisierung war (cube grün), wie sie jetzt ist (cube blau) und wie sie in der Zukunft aussehen wird (cube rot), mit dem Treibhauseffekt)
 Man befindet sich in einem VR Raum in dem man verschiedene Buttons hat und je nach Button ändert sich die Szene ins negative wegen der Industriealisierung (Auf den Treibhauseffekt bezogen).
 Wenn man auf den Pinkfarbenen Zylinder klickt verlassen wir die Spiel-Szene und kommen in die Icon-Szene rein.
+
+
 **Meine 4 Elemente die ich mir ausgesucht habe sind:**
+
 +if/else
+
 +for
+
 +Methodenaufruf
+
 +Methodendeklaration
 
 diese kommen im Scrip AktiesAtmos vor.
