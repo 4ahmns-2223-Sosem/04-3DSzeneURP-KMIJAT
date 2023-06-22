@@ -3,8 +3,17 @@
 **Beschreibung:** 3D-Szene für ein gemeinsames Schulprojekt. 
 Ich beschäftige mich mit dem Thema Treibhauseffekt.
 In meinem Part des Projekts sieht man die Sonne und die Erde, und man hat mehrere optionen die man anklicken kann um den Treibhaseffekt zu sehen.
-(wie die Erde vor der industiealisierung war, wie sie jetzt ist und wie sie in der Zukunft aussehen wird mit dem Treibhauseffekt)
+(wie die Erde vor der industiealisierung war (cube grün), wie sie jetzt ist (cube blau) und wie sie in der Zukunft aussehen wird (cube rot), mit dem Treibhauseffekt)
 Man befindet sich in einem VR Raum in dem man verschiedene Buttons hat und je nach Button ändert sich die Szene ins negative wegen der Industriealisierung (Auf den Treibhauseffekt bezogen).
+Wenn man auf den Pinkfarbenen Zylinder klickt verlassen wir die Spiel-Szene und kommen in die Icon-Szene rein.
+**Meine 4 Elemente die ich mir ausgesucht habe sind:**
++if/else
++for
++Methodenaufruf
++Methodendeklaration
+
+diese kommen im Scrip AktiesAtmos vor.
+
 
 **Entwicklungsplattform:**
 + Windows 10
@@ -26,14 +35,19 @@ Man befindet sich in einem VR Raum in dem man verschiedene Buttons hat und je na
 +Zukunfts Button (rot)
 ![image](https://github.com/4ahmns-2223-Sosem/04-3DSzeneURP-KMIJAT/assets/90834524/fe581576-776a-40e2-b657-22a045a822a8)
 
++ExitScene Button (pink)
+![image](https://github.com/4ahmns-2223-Sosem/04-3DSzeneURP-KMIJAT/assets/90834524/8e7827a0-f5ce-4e68-8cd9-5b311941c561)
+
 
 **Lessons Learned:**
 + Umgang mit First Person Controller
 + Umgang mit Audio Files in Unity
++ Umgang mit VR
 
 
 **Limitations:**
 + Satelit lässt sich nicht um die erde bewegen
++ Texturen sind nicht realistisch
 
 **Copyright by:** 
 Kristina Mijatovic
