@@ -18,7 +18,7 @@ Wenn man auf den Pinkfarbenen Zylinder klickt verlassen wir die Spiel-Szene und 
 
 +Methodendeklaration
 
-diese kommen im Scrip AktiesAtmos vor.
+diese kommen im Scrip AktivesAtmos vor.
 
 
 **Entwicklungsplattform:**
