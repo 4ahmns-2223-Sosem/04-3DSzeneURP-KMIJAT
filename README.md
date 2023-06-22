@@ -9,6 +9,22 @@ Wenn man auf den Pinkfarbenen Zylinder klickt verlassen wir die Spiel-Szene und 
 Die Botschaft hinter dem Spiel ist, dass die Industriealisierung den Treihauseffekt immer mehr fördert und unsere Erde irgendwann daran untergehen wird.
 Der "korrekte" Ablauf des Spiels sollte folgender Maßen aussehen: Man ist in der Szene drinnen und man hat vor sich die Buttons. Zuerst klickt man den grünen an danach den blauen nach dem blauen den roten und wenn man fertig ist mit dem erkundigen kann man zur Icon-Wand zurück in dem man den Pinken Zylinder anklickt. Man kann sich natürlich auch in der Szene bewegen z.B. zu der Erde.
 
+**Steuerung**
+
+W: vorne
+
+S: hinten
+
+A: links
+
+D: rechts
+
+Maus rechtsklick: Kamerarichtung
+
+Klick: Buttons auslösen
+
+
+
 **Liste der Sounds**
 
 Fabrik1 - wird ausgelöst beim klick vom roten Button
